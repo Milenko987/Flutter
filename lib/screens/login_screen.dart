@@ -64,7 +64,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       const Text(
-                        "Sign in",
+                        "Sign in now",
                         style: TextStyle(
                             decoration: TextDecoration.none,
                             fontFamily: 'OpenSans',
